@@ -1,0 +1,42 @@
+Website 1
+---------
+https://jsonplaceholder.typicode.com/
+
+
+Website 2
+----------
+https://en.wikipedia.org/wiki/Body_mass_index
+
+
+Website 3
+----------
+https://swapi.dev/api/people/?page=1
+
+
+Website 4
+----------
+http://www.planecrashinfo.com/database.htm
+
+http://www.planecrashinfo.com/1993/1993.htm
+
+
+Website 5
+----------
+https://raw.githubusercontent.com/realpython/python-data-cleaning/master/Datasets/olympics.csv
+
+Website 6
+----------
+https://www.worldometers.info/world-population/population-by-country/
+
+Website 7
+----------
+https://ourworldindata.org/covid-deaths
+
+Website 8
+----------
+https://www.amazon.com/s?k=power+bi&i=stripbooks-intl-ship&crid=3JW4QS18VA0CB&sprefix=power+bi%2Cstripbooks-intl-ship%2C283&ref=nb_sb_noss_1
+
+Email
+======
+jonathanogwumike@gmail.com
+jonathan@urbannaija.com 
